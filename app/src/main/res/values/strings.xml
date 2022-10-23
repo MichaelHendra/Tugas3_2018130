@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string name="deskription_menu">Cuaca diluar sangat terik. Cocok untuk berjemur dan cocok juga untuk mengeringkan pakaian, krupuk, dan ikan asin</string>
+    <string name="Kecepatan">Kecepatan Angin</string>
+    <string name="numberKecepatan">3 Km/Jam</string>
+    <string name="Kelembapan">Kelembapan</string>
+    <string name="KelembapanNumber">87%</string>
+</resources>
